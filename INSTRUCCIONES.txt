@@ -1,0 +1,11 @@
+MI SMOKE · ATPC — INSTALACIÓN NUEVA EN ANDROID
+
+1. En GitHub crea un repositorio PÚBLICO llamado exactamente mi-smoke (usuario Shounka82).
+2. Descomprime el ZIP y sube el CONTENIDO de la carpeta a la RAÍZ del repositorio: index.html, manifest.webmanifest, sw.js y la carpeta icons con sus tres PNG. No subas una carpeta contenedora.
+3. En Settings > Pages: Deploy from a branch, main, /(root), Save.
+4. Espera a que GitHub Pages publique. Abre https://shounka82.github.io/mi-smoke/ en Chrome de Android.
+5. Comprueba que aparece la app y el icono ATPC, luego menú ⋮ > Instalar aplicación.
+6. Si Android indica que ya está instalada, comprueba Ajustes > Aplicaciones y Chrome antes de borrar datos.
+
+IMPORTANTE: exporta tus datos desde la app anterior ANTES de borrar los datos de Chrome; la versión alojada en la nueva URL usa almacenamiento separado. Desde Ajustes puedes importar la copia.
+Esta versión no incluye notificaciones automáticas de medicación.

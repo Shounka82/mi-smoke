@@ -1,0 +1,32 @@
+{
+  "id": "/mi-smoke/atpc-app-v2",
+  "name": "Mi Smoke · ATPC",
+  "short_name": "Mi Smoke",
+  "description": "Registro y reducción de cigarrillos con calendario, tratamiento y mejoras",
+  "lang": "es",
+  "start_url": "/mi-smoke/index.html",
+  "scope": "/mi-smoke/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#fafafa",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
