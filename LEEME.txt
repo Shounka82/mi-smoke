@@ -1,0 +1,5 @@
+Mi Smoke ATPC – paquete GitHub Pages /mi-smoke/
+Sube los 6 archivos directamente a la RAÍZ del repositorio mi-smoke (sin carpeta icons).
+No subas el ZIP sin descomprimir.
+Espera a que GitHub Pages termine de publicar; comprueba https://shounka82.github.io/mi-smoke/icon-192.png y https://shounka82.github.io/mi-smoke/manifest.webmanifest
+Recarga la web antes de intentar instalar. Los registros locales no se borran por actualizar estos archivos.
